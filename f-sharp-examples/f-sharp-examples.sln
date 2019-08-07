@@ -18,6 +18,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E008_Input", "E008_Input\E0
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E009_PatternMatching", "E009_PatternMatching\E009_PatternMatching.fsproj", "{1D4B73CE-1570-4C33-8B43-3EB308BF2784}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E010_Loops", "E010_Loops\E010_Loops.fsproj", "{3648A02E-D832-474C-8F7A-12C51A2A1A74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{1D4B73CE-1570-4C33-8B43-3EB308BF2784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D4B73CE-1570-4C33-8B43-3EB308BF2784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D4B73CE-1570-4C33-8B43-3EB308BF2784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3648A02E-D832-474C-8F7A-12C51A2A1A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3648A02E-D832-474C-8F7A-12C51A2A1A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3648A02E-D832-474C-8F7A-12C51A2A1A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3648A02E-D832-474C-8F7A-12C51A2A1A74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
