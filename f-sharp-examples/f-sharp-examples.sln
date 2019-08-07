@@ -36,6 +36,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E017_Tuple", "E017_Tuple\E0
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E018_List", "E018_List\E018_List.fsproj", "{AEF889BF-DC35-426E-B172-4EA2B6D76748}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E019_Array", "E019_Array\E019_Array.fsproj", "{697F4899-1441-4B6C-B271-1B753A16428D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{AEF889BF-DC35-426E-B172-4EA2B6D76748}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEF889BF-DC35-426E-B172-4EA2B6D76748}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEF889BF-DC35-426E-B172-4EA2B6D76748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697F4899-1441-4B6C-B271-1B753A16428D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697F4899-1441-4B6C-B271-1B753A16428D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697F4899-1441-4B6C-B271-1B753A16428D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697F4899-1441-4B6C-B271-1B753A16428D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
