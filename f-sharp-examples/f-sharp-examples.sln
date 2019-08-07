@@ -14,6 +14,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E006_Arithmetic", "E006_Ari
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E007_Operators", "E007_Operators\E007_Operators.fsproj", "{04DF914D-B663-4B43-8356-EFCAFEC3ED5D}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E008_Input", "E008_Input\E008_Input.fsproj", "{FC6922D6-966B-4A9B-85EF-2F19DE36A851}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{04DF914D-B663-4B43-8356-EFCAFEC3ED5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04DF914D-B663-4B43-8356-EFCAFEC3ED5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04DF914D-B663-4B43-8356-EFCAFEC3ED5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6922D6-966B-4A9B-85EF-2F19DE36A851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6922D6-966B-4A9B-85EF-2F19DE36A851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6922D6-966B-4A9B-85EF-2F19DE36A851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6922D6-966B-4A9B-85EF-2F19DE36A851}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
