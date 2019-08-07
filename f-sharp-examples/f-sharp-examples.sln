@@ -28,6 +28,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E013_FunctionPipelining", "
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E014_LambdaExpressions", "E014_LambdaExpressions\E014_LambdaExpressions.fsproj", "{9DDDE5FE-F03D-4B56-A6A5-1F65FF05B2AF}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E015_InlineFunction", "E015_InlineFunction\E015_InlineFunction.fsproj", "{31F53D12-C147-4AA9-9B71-8B058179CFBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{9DDDE5FE-F03D-4B56-A6A5-1F65FF05B2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DDDE5FE-F03D-4B56-A6A5-1F65FF05B2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DDDE5FE-F03D-4B56-A6A5-1F65FF05B2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F53D12-C147-4AA9-9B71-8B058179CFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F53D12-C147-4AA9-9B71-8B058179CFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F53D12-C147-4AA9-9B71-8B058179CFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F53D12-C147-4AA9-9B71-8B058179CFBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
