@@ -8,6 +8,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E003_FunctionBasics", "E003
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E004_Conversion", "E004_Conversion\E004_Conversion.fsproj", "{847ED131-F3C7-4601-AC69-86D8F5CD1594}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E005_TypeCasting", "E005_TypeCasting\E005_TypeCasting.fsproj", "{B087723D-2262-4F52-87B9-401BE6012884}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{847ED131-F3C7-4601-AC69-86D8F5CD1594}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{847ED131-F3C7-4601-AC69-86D8F5CD1594}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{847ED131-F3C7-4601-AC69-86D8F5CD1594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B087723D-2262-4F52-87B9-401BE6012884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B087723D-2262-4F52-87B9-401BE6012884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B087723D-2262-4F52-87B9-401BE6012884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B087723D-2262-4F52-87B9-401BE6012884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
