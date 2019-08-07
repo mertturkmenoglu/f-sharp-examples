@@ -34,6 +34,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E016_String", "E016_String\
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E017_Tuple", "E017_Tuple\E017_Tuple.fsproj", "{34DEEDA3-2CF9-43B9-A105-A3D45DDA0C94}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E018_List", "E018_List\E018_List.fsproj", "{AEF889BF-DC35-426E-B172-4EA2B6D76748}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{34DEEDA3-2CF9-43B9-A105-A3D45DDA0C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34DEEDA3-2CF9-43B9-A105-A3D45DDA0C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34DEEDA3-2CF9-43B9-A105-A3D45DDA0C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF889BF-DC35-426E-B172-4EA2B6D76748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF889BF-DC35-426E-B172-4EA2B6D76748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF889BF-DC35-426E-B172-4EA2B6D76748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF889BF-DC35-426E-B172-4EA2B6D76748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
