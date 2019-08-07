@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "f-sharp-examples", "f-sharp-examples\f-sharp-examples.fsproj", "{568B6A89-8223-488A-8F70-9835CD6C362D}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E001_HelloWorld", "E001_HelloWorld\E001_HelloWorld.fsproj", "{568B6A89-8223-488A-8F70-9835CD6C362D}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E002_ConsoleOutput", "E002_ConsoleOutput\E002_ConsoleOutput.fsproj", "{5385F192-7108-44D0-86F4-8FF626C4F2C8}"
 EndProject
