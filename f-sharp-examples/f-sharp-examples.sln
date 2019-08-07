@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "f-sharp-examples", "f-sharp-examples\f-sharp-examples.fsproj", "{568B6A89-8223-488A-8F70-9835CD6C362D}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E002_ConsoleOutput", "E002_ConsoleOutput\E002_ConsoleOutput.fsproj", "{5385F192-7108-44D0-86F4-8FF626C4F2C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{568B6A89-8223-488A-8F70-9835CD6C362D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{568B6A89-8223-488A-8F70-9835CD6C362D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{568B6A89-8223-488A-8F70-9835CD6C362D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5385F192-7108-44D0-86F4-8FF626C4F2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5385F192-7108-44D0-86F4-8FF626C4F2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5385F192-7108-44D0-86F4-8FF626C4F2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5385F192-7108-44D0-86F4-8FF626C4F2C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
