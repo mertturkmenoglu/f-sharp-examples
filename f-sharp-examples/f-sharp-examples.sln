@@ -50,6 +50,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E024_ReferenceCells", "E024
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E025_Structure", "E025_Structure\E025_Structure.fsproj", "{337A8EB4-62DF-4522-86EA-5474C5F93D3D}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E026_DiscriminatedUnion", "E026_DiscriminatedUnion\E026_DiscriminatedUnion.fsproj", "{C8A74D69-6A59-4678-81BE-98E95D708EE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,5 +158,9 @@ Global
 		{337A8EB4-62DF-4522-86EA-5474C5F93D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{337A8EB4-62DF-4522-86EA-5474C5F93D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{337A8EB4-62DF-4522-86EA-5474C5F93D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8A74D69-6A59-4678-81BE-98E95D708EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A74D69-6A59-4678-81BE-98E95D708EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A74D69-6A59-4678-81BE-98E95D708EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A74D69-6A59-4678-81BE-98E95D708EE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
