@@ -54,6 +54,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E026_DiscriminatedUnion", "
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E027_LambdaExpression", "E027_LambdaExpression\E027_LambdaExpression.fsproj", "{6D162E3C-3961-4AD1-8840-EBFF3458FCCC}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E028_DiscriminatedUnion", "E028_DiscriminatedUnion\E028_DiscriminatedUnion.fsproj", "{2AF9461A-9D37-4F7A-9721-61C803EE712C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,5 +170,9 @@ Global
 		{6D162E3C-3961-4AD1-8840-EBFF3458FCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D162E3C-3961-4AD1-8840-EBFF3458FCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D162E3C-3961-4AD1-8840-EBFF3458FCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF9461A-9D37-4F7A-9721-61C803EE712C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF9461A-9D37-4F7A-9721-61C803EE712C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF9461A-9D37-4F7A-9721-61C803EE712C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF9461A-9D37-4F7A-9721-61C803EE712C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
