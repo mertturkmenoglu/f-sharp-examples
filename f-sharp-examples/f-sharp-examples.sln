@@ -64,6 +64,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E031_MethodOverriding", "E0
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E032_AbstractClass", "E032_AbstractClass\E032_AbstractClass.fsproj", "{05E8048F-CB95-4094-85D0-629A8091274D}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E033_Interface", "E033_Interface\E033_Interface.fsproj", "{319A4CFD-6CA1-4029-8A63-3BB1162C8654}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -198,5 +200,9 @@ Global
 		{05E8048F-CB95-4094-85D0-629A8091274D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05E8048F-CB95-4094-85D0-629A8091274D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05E8048F-CB95-4094-85D0-629A8091274D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319A4CFD-6CA1-4029-8A63-3BB1162C8654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319A4CFD-6CA1-4029-8A63-3BB1162C8654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319A4CFD-6CA1-4029-8A63-3BB1162C8654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319A4CFD-6CA1-4029-8A63-3BB1162C8654}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
