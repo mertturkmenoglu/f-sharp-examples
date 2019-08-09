@@ -80,6 +80,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E036_ObjectExpression", "E0
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E037_ExceptionHandling", "E037_ExceptionHandling\E037_ExceptionHandling.fsproj", "{67425975-F25E-4478-A199-DD083DB6D08B}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E038_UserDefinedException", "E038_UserDefinedException\E038_UserDefinedException.fsproj", "{BD32EEEE-E1BA-4DD3-9016-E7B4249E1853}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -242,6 +244,10 @@ Global
 		{67425975-F25E-4478-A199-DD083DB6D08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67425975-F25E-4478-A199-DD083DB6D08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67425975-F25E-4478-A199-DD083DB6D08B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD32EEEE-E1BA-4DD3-9016-E7B4249E1853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD32EEEE-E1BA-4DD3-9016-E7B4249E1853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD32EEEE-E1BA-4DD3-9016-E7B4249E1853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD32EEEE-E1BA-4DD3-9016-E7B4249E1853}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{971C1A5A-DE90-4741-9106-53214BF8F7A4} = {3FCF12C0-9BEF-4DA9-8CEB-CAE32D79871C}
