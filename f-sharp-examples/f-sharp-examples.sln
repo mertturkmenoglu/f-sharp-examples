@@ -84,6 +84,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E038_UserDefinedException",
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E039_ExceptionHandling", "E039_ExceptionHandling\E039_ExceptionHandling.fsproj", "{73E1F2C7-08A1-4BE0-A71D-8AD29BE8D5F6}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E040_Assertion", "E040_Assertion\E040_Assertion.fsproj", "{819C7D5E-21B6-4903-B4FA-2FB51C1D5506}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -254,6 +256,10 @@ Global
 		{73E1F2C7-08A1-4BE0-A71D-8AD29BE8D5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73E1F2C7-08A1-4BE0-A71D-8AD29BE8D5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73E1F2C7-08A1-4BE0-A71D-8AD29BE8D5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819C7D5E-21B6-4903-B4FA-2FB51C1D5506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819C7D5E-21B6-4903-B4FA-2FB51C1D5506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819C7D5E-21B6-4903-B4FA-2FB51C1D5506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819C7D5E-21B6-4903-B4FA-2FB51C1D5506}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{971C1A5A-DE90-4741-9106-53214BF8F7A4} = {3FCF12C0-9BEF-4DA9-8CEB-CAE32D79871C}
