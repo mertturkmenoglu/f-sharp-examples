@@ -76,6 +76,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E002_EvenSum", "E002_EvenSu
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E035_OperatorOverloading", "E035_OperatorOverloading\E035_OperatorOverloading.fsproj", "{93432C60-5B44-47E1-8241-A47D4D935E08}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E036_ObjectExpression", "E036_ObjectExpression\E036_ObjectExpression.fsproj", "{315AE7C8-26B4-4E4B-9E3E-62647DE44C0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -230,6 +232,10 @@ Global
 		{93432C60-5B44-47E1-8241-A47D4D935E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93432C60-5B44-47E1-8241-A47D4D935E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93432C60-5B44-47E1-8241-A47D4D935E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315AE7C8-26B4-4E4B-9E3E-62647DE44C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315AE7C8-26B4-4E4B-9E3E-62647DE44C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315AE7C8-26B4-4E4B-9E3E-62647DE44C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315AE7C8-26B4-4E4B-9E3E-62647DE44C0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{971C1A5A-DE90-4741-9106-53214BF8F7A4} = {3FCF12C0-9BEF-4DA9-8CEB-CAE32D79871C}
