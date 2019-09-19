@@ -88,6 +88,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "P003_DuplicateCount", "P003
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "P004_Ackermann", "P004_Ackermann\P004_Ackermann.fsproj", "{33D203BF-0595-40CA-8DB6-17458E09FA3A}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "P005_FactorialWithPatternMatching", "P005_FactorialWithPatternMatching\P005_FactorialWithPatternMatching.fsproj", "{73E8B0BC-E260-4E04-B7F3-68AEDCBFC531}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -270,6 +272,10 @@ Global
 		{33D203BF-0595-40CA-8DB6-17458E09FA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33D203BF-0595-40CA-8DB6-17458E09FA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33D203BF-0595-40CA-8DB6-17458E09FA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E8B0BC-E260-4E04-B7F3-68AEDCBFC531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E8B0BC-E260-4E04-B7F3-68AEDCBFC531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E8B0BC-E260-4E04-B7F3-68AEDCBFC531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E8B0BC-E260-4E04-B7F3-68AEDCBFC531}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
