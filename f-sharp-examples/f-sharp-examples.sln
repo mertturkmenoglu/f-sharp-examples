@@ -90,6 +90,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "P004_Ackermann", "P004_Acke
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "P005_FactorialWithPatternMatching", "P005_FactorialWithPatternMatching\P005_FactorialWithPatternMatching.fsproj", "{73E8B0BC-E260-4E04-B7F3-68AEDCBFC531}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "P006_Merge", "P006_Merge\P006_Merge.fsproj", "{22427C6D-1782-4736-9F52-08440A86A16D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -276,6 +278,10 @@ Global
 		{73E8B0BC-E260-4E04-B7F3-68AEDCBFC531}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73E8B0BC-E260-4E04-B7F3-68AEDCBFC531}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73E8B0BC-E260-4E04-B7F3-68AEDCBFC531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22427C6D-1782-4736-9F52-08440A86A16D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22427C6D-1782-4736-9F52-08440A86A16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22427C6D-1782-4736-9F52-08440A86A16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22427C6D-1782-4736-9F52-08440A86A16D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
