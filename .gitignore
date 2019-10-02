@@ -7,15 +7,12 @@
 .idea/**/content
 f-sharp-examples/**/bin/
 f-sharp-examples/.idea/
-f-sharp-examples/**/*.fsproj
 f-sharp-examples/**/obj/
 
 f-sharp-example/**/bin/
 f-sharp-example/.idea/
-f-sharp-example/**/*.fsproj
 f-sharp-example/**/obj/
 
 practice/**/bin/
 practice/.idea/
-practice/**/*.fsproj
 practice/**/obj/
