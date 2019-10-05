@@ -98,6 +98,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "P008_OnesInSegment", "P008_
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E042_ListComprehension", "E042_ListComprehension\E042_ListComprehension.fsproj", "{D2C2C1FF-A72D-4DEC-9DF0-BBFD41564239}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E043_List", "E043_List\E043_List.fsproj", "{FC0D2BB9-639B-4F78-AFD7-5C1FC2E894F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -300,6 +302,10 @@ Global
 		{D2C2C1FF-A72D-4DEC-9DF0-BBFD41564239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2C2C1FF-A72D-4DEC-9DF0-BBFD41564239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2C2C1FF-A72D-4DEC-9DF0-BBFD41564239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC0D2BB9-639B-4F78-AFD7-5C1FC2E894F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0D2BB9-639B-4F78-AFD7-5C1FC2E894F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0D2BB9-639B-4F78-AFD7-5C1FC2E894F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0D2BB9-639B-4F78-AFD7-5C1FC2E894F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
