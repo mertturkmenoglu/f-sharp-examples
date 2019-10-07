@@ -108,6 +108,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E046_ListIndexed", "E046_Li
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "P009_TwoSum", "P009_TwoSum\P009_TwoSum.fsproj", "{74D440B2-3116-48FC-984D-5A7D306E5BC9}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "E047_PatternMatching", "E047_PatternMatching\E047_PatternMatching.fsproj", "{8E2F7EC1-AE92-4A67-8801-CD8BA33DB5B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -330,6 +332,10 @@ Global
 		{74D440B2-3116-48FC-984D-5A7D306E5BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74D440B2-3116-48FC-984D-5A7D306E5BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74D440B2-3116-48FC-984D-5A7D306E5BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2F7EC1-AE92-4A67-8801-CD8BA33DB5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2F7EC1-AE92-4A67-8801-CD8BA33DB5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2F7EC1-AE92-4A67-8801-CD8BA33DB5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2F7EC1-AE92-4A67-8801-CD8BA33DB5B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
